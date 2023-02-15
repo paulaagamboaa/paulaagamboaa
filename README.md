@@ -32,7 +32,7 @@ heh
 [![](https://visitcount.itsvg.in/api?id=paulaagamboaa&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Schedule !!
+### Schedule !!
 | Hora           | Lunes            | Martes      | Miércoles        | Jueves                | Viernes               |   
 |:--------------:|:----------------:|:-----------:|:----------------:|:---------------------:|:---------------------:|
 | 11:05 - 11:55  | Redes de Computo |             | Redes de Computo |                       |                       |   
