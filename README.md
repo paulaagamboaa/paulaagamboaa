@@ -32,3 +32,16 @@ heh
 [![](https://visitcount.itsvg.in/api?id=paulaagamboaa&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###Schedule !!
+#| Hora/Día      | Lunes | Martes | Miércoles | Jueves | Viernes |
+|---------------|-------|--------|-----------|--------|---------|
+| 11:05 - 11:55 | MRC   |        | MRC       |        |         |
+| 12:00 - 12:50 | MRC   |        | MRC       |        | CV      |
+| 12:55 - 13:45 | HIST  | LIT    | LIT       | CV     | CV      |
+| 13:50 - 14:40 | BIO   | BIO    | BIO       | BIO    | LIT     |
+| 14:45 - 15:35 | FÍS   | ING    | DEP       | HIST   | MATE    |
+| 15:40 - 16:30 | ING   | HIST   | MATE      | MATE   | ING     |
+| 16:30 - 17:00 |       |        |           |        |         |
+| 17:00 - 17:50 | MATE  | FÍS    | FÍS       | FÍS    | FÍS     |
+| 17:55 - 18:45 |       | MATE   |           | ED OR  |         |
+
